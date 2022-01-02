@@ -23,6 +23,12 @@
 
 #### 📋 Recent Dev Projects
 
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+
 <table style = "width:100%">
 	<tr>
 		<th>Project Name</th>
@@ -43,28 +49,3 @@
 
 <a href="https://bitcookies.nousbuild.com/">
   <img align="middle" src="assets/powered-by.svg" alt="Logo" /></a>
-
-<style>
-    table {
-        -webkit-border-horizontal-spacing: 0px;
-		-webkit-border-vertical-spacing: 0px;
-		border-bottom-color: rgb(128, 128, 128);
-		border-collapse: collapse;
-		border-left-color: rgb(128, 128, 128);
-		border-right-color: rgb(128, 128, 128);
-		border-top-color: rgb(128, 128, 128);
-		box-sizing: border-box;
-		color: rgb(51, 51, 51);
-		display: block;
-		font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
-		font-size: 16px;
-		height: 149px;
-		line-height: 24px;
-		margin-bottom: 16px;
-		margin-top: 0px;
-		overflow-x: auto;
-		overflow-y: auto;
-		width: 888px;
-		word-wrap: break-word;
-    }
-</style>
