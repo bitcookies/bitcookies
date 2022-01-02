@@ -12,6 +12,7 @@
   <img alt="icon" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="icon" src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img alt="icon" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+  <img alt="icon" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbitcookies&labelColor=%23000000&countColor=%23ff8a65" />
 </p>
 
 *Bit Cookies* is my development brand, used to share some desktop software and plug-ins I developed for everyone to download and use.
@@ -22,6 +23,17 @@
 
 #### 📋 Recent Dev Projects
 
+<table>
+	<tr>
+		<th>Project Name</th>
+		<th>Category</th>
+	</tr>
+	<tr>
+        <th>a</th>
+        <th>b</th>
+	</tr>
+</table>
+
 | Project Name <img width=240/>                                | Category <img width=160/> |
 | :----------------------------------------------------------- | ------------------------- |
 | [Pudding VSCode Theme](https://github.com/bitcookies/pudding-vscode-theme) | VSCode Theme              |
@@ -31,3 +43,28 @@
 
 <a href="https://bitcookies.nousbuild.com/">
   <img align="middle" src="assets/powered-by.svg" alt="Logo" /></a>
+
+<style>
+    table {
+        -webkit-border-horizontal-spacing: 0px;
+		-webkit-border-vertical-spacing: 0px;
+		border-bottom-color: rgb(128, 128, 128);
+		border-collapse: collapse;
+		border-left-color: rgb(128, 128, 128);
+		border-right-color: rgb(128, 128, 128);
+		border-top-color: rgb(128, 128, 128);
+		box-sizing: border-box;
+		color: rgb(51, 51, 51);
+		display: block;
+		font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+		font-size: 16px;
+		height: 149px;
+		line-height: 24px;
+		margin-bottom: 16px;
+		margin-top: 0px;
+		overflow-x: auto;
+		overflow-y: auto;
+		width: 888px;
+		word-wrap: break-word;
+    }
+</style>
