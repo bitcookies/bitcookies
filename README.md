@@ -23,23 +23,6 @@
 
 #### 📋 Recent Dev Projects
 
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-
-<table style = "width:100%">
-	<tr>
-		<th>Project Name</th>
-		<th>Category</th>
-	</tr>
-	<tr>
-        <th>a</th>
-        <th>b</th>
-	</tr>
-</table>
-
 | Project Name <img width=240/>                                | Category <img width=160/> |
 | :----------------------------------------------------------- | ------------------------- |
 | [Pudding VSCode Theme](https://github.com/bitcookies/pudding-vscode-theme) | VSCode Theme              |
