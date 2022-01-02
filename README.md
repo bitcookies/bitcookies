@@ -23,7 +23,7 @@
 
 #### 📋 Recent Dev Projects
 
-<table>
+<table style = "width:100%">
 	<tr>
 		<th>Project Name</th>
 		<th>Category</th>
