@@ -25,10 +25,13 @@
 
 | Project Name <img width=240/>                                | Category <img width=160/> |
 | :----------------------------------------------------------- | ------------------------- |
+| [Pudding Illustration](https://github.com/windmill0503/pudding-illustration) | Illustration              |
+| [Frosted Glass Theme](https://github.com/bitcookies/frosted-glass-winrar-theme) | WinRAR Theme              |
 | [Pudding VSCode Theme](https://github.com/bitcookies/pudding-vscode-theme) | VSCode Theme              |
 | [WinRAR Keygen](https://github.com/bitcookies/winrar-keygen) | C++                       |
 | [CatTalk](https://github.nousbuild.com/get-cityweather/)     | Mini Program              |
 | [City Weather](https://github.nousbuild.com/get-cityweather/) | Mini Program              |
+| [Pitch Perfect](https://github.com/windmill0503/pitchPerfect) | Swift                     |
 
 <a href="https://bitcookies.nousbuild.com/">
   <img align="middle" src="assets/powered-by.svg" alt="Logo" /></a>
