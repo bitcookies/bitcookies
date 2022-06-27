@@ -11,19 +11,25 @@
   </a>
   <img alt="icon" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="icon" src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img alt="icon" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+  <img alt="icon" src="https://img.shields.io/badge/Linux-f75927?style=for-the-badge&logo=Linux&logoColor=white" />
   <img alt="icon" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbitcookies&labelColor=%23000000&countColor=%23ff8a65" />
 </p>
 
-*Bit Cookies* is my development brand, used to share some desktop software and plug-ins I developed for everyone to download and use.
+*Bit Cookies* is my development brand, used to share some desktop software, plug-ins, themes and other tools I developed for everyone to download and use.
 
 + 🖥 You can view and download at [repo](https://github.com/bitcookies?tab=repositories) or [bitcookies.nousbuild.com](https://bitcookies.nousbuild.com).
 
 + 🎨 For more information, you can focus on my GitHub <img src="https://avatars.githubusercontent.com/u/18262199" width="18px"/> [@pudding0503](https://github.com/pudding0503).
 
+<p align="right">
+  <a href="https://github.com/pudding0503">
+      <img width="210px" src="assets/pudding.png" align="right" alt="Pudding">
+  </a>
+</p>
+
 #### 📋 Recent Dev Projects
 
-| Project Name <img width=240/>                                | Category <img width=160/> |
+| Project Name <img width=190/>                                | Category <img width=100/> |
 | :----------------------------------------------------------- | ------------------------- |
 | [Pudding Illustration](https://github.com/pudding0503/pudding-illustration) | Illustration              |
 | [Frosted Glass Theme](https://github.com/bitcookies/frosted-glass-winrar-theme) | WinRAR Theme              |
