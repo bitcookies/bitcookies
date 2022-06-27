@@ -14,6 +14,7 @@
   <img alt="icon" src="https://img.shields.io/badge/Linux-f75927?style=for-the-badge&logo=Linux&logoColor=white" />
   <img alt="icon" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbitcookies&labelColor=%23000000&countColor=%23ff8a65" />
 </p>
+
 *Bit Cookies* is my development brand, used to share some desktop software, plug-ins, themes and other tools I developed for everyone to download and use.
 
 <p align="right">
@@ -31,7 +32,7 @@
 
 + 🎨 Original Illustration Author ([My illustrations](https://www.nousbuild.org/illustration/)).
 
-+ 📑 For more information, you can focus on my personal GitHub <img src="https://avatars.githubusercontent.com/u/18262199" width="18px"/> [@pudding0503](https://github.com/pudding0503).
++ 📑 For more information, you can focus on my GitHub <img src="https://avatars.githubusercontent.com/u/18262199" width="18px"/> [@pudding0503](https://github.com/pudding0503).
 
 
 #### 📋 Recent Dev Projects
