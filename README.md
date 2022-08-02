@@ -39,15 +39,15 @@
 
 #### 📋 Recent Dev Projects
 
-| Project Name <img width=190/>                                | Category <img width=100/> |
-| :----------------------------------------------------------- | ------------------------- |
-| [Pudding Illustration](https://github.com/pudding0503/pudding-illustration) | Illustration              |
-| [Frosted Glass Theme](https://github.com/bitcookies/frosted-glass-winrar-theme) | WinRAR Theme              |
-| [Pudding VSCode Theme](https://github.com/bitcookies/pudding-vscode-theme) | VSCode Theme              |
-| [WinRAR Keygen](https://github.com/bitcookies/winrar-keygen) | C++                       |
-| [CatTalk](https://github.nousbuild.com/get-cityweather/)     | Mini Program              |
-| [City Weather](https://github.nousbuild.com/get-cityweather/) | Mini Program              |
-| [Pitch Perfect](https://github.com/pudding0503/pitchPerfect) | Swift                     |
+| Project Name <img width="150px">                             | Category <img width="80px"> |
+| :----------------------------------------------------------- | --------------------------- |
+| [Pudding Illustration](https://github.com/pudding0503/pudding-illustration) | Illustration                |
+| [Frosted Glass Theme](https://github.com/bitcookies/frosted-glass-winrar-theme) | WinRAR Theme                |
+| [Pudding VSCode Theme](https://github.com/bitcookies/pudding-vscode-theme) | VSCode Theme                |
+| [WinRAR Keygen](https://github.com/bitcookies/winrar-keygen) | C++                         |
+| [CatTalk](https://github.nousbuild.com/get-cityweather/)     | Mini Program                |
+| [City Weather](https://github.nousbuild.com/get-cityweather/) | Mini Program                |
+| [Pitch Perfect](https://github.com/pudding0503/pitchPerfect) | Swift                       |
 
 <a href="https://bitcookies.nousbuild.com/">
   <img align="middle" src="assets/powered-by.svg" alt="Logo" /></a>
