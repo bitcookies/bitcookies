@@ -27,13 +27,9 @@
 #### ⚡️ A Few Quick Facts
 
 + 🖥 You can view and download at [repo](https://github.com/bitcookies?tab=repositories) or [bitcookies.nousbuild.com](https://bitcookies.nousbuild.com).
-
 + 🏷 Personal Webmaster ([nousbuild.org](https://www.nousbuild.org/)).
-
 + ✏️ Original Comic Author ([CatTalk](https://cattalk.nousbuild.org/)).
-
 + 🎨 Original Illustration Author ([My illustrations](https://www.nousbuild.org/illustration/)).
-
 + 📑 For more information, you can focus on my GitHub <img src="https://avatars.githubusercontent.com/u/18262199" width="18px"/> [@pudding0503](https://github.com/pudding0503).
 
 
