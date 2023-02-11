@@ -19,7 +19,7 @@
 
 <p align="right">
   <a href="https://github.com/pudding0503">
-      <img width="210px" src="assets/pudding.png" align="right" alt="Pudding">
+      <img width="210px" src="assets/puff.png" align="right" alt="Puff">
   </a>
 </p>
 
