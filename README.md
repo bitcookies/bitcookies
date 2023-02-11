@@ -19,10 +19,9 @@
 
 <p align="right">
   <a href="https://github.com/pudding0503">
-      <img width="210px" src="assets/puff.png" align="right" alt="Puff">
+      <img height="530px" src="assets/puff.png" align="right" alt="Puff">
   </a>
 </p>
-
 
 #### ⚡️ A Few Quick Facts
 
