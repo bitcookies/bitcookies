@@ -14,8 +14,7 @@
   <img alt="icon" src="https://img.shields.io/badge/Linux-f75927?style=for-the-badge&logo=Linux&logoColor=white" />
   <img alt="icon" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbitcookies&labelColor=%23000000&countColor=%23ff8a65" />
 </p>
-
-**Bitcookies** is a development brand for sharing some of the desktop software and plugins I've developed for download and use. And **Puff** is also an illustrated figurative character I drew.
+**Bitcookies** is a development brand for sharing some of the desktop software, plugins, themes and games I've developed for download and use. And **Puff** is also an illustrated figurative character I drew.
 
 <p align="right">
   <a href="https://github.com/pudding0503">
