@@ -34,6 +34,5 @@
 | [WinRAR Keygen](https://github.com/bitcookies/winrar-keygen) | C++ |
 | [CatTalk](https://pudding.nousbuild.com/get-cityweather/)     | Mini Program |
 | [City Weather](https://pudding.nousbuild.com/get-cityweather/) | Mini Program |
-| [Pitch Perfect](https://github.com/pudding0503/pitchPerfect) | Swift |
 
 <a href="https://bitcookies.nousbuild.com/"><img align="middle" src="assets/powered-by.svg" alt="Logo" /></a>
